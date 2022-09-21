@@ -166,6 +166,13 @@ body {
     text-shadow: 2px 2px 5px black;
 }
 
+.donat-box-content-text.text:active, 
+.donat-box-content-text.text:hover,  
+.donat-box-content-text.text {
+  text-decoration: none;
+  
+}
+
 .donat-box-content {
     margin-top: 7px;
     display: grid;
